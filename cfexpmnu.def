@@ -1,0 +1,18 @@
+LIBRARY CFEXPMNU
+DESCRIPTION 'CFExpMnu.dll'
+
+EXPORTS
+
+
+; DLLXPORT_BEGIN:
+;
+;
+
+
+;----------------  cfexpmnu.OBJ  ----------------
+
+	DoExplorerMenu
+
+
+;
+; :DLLXPORT_END
